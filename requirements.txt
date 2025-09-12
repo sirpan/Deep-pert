@@ -1,0 +1,117 @@
+distributed==2021.3.0
+h5py==2.10.0
+HeapDict==1.0.1
+httpcore==0.14.7
+hyperopt==0.2.7
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+idna-ssl @ file:///tmp/build/80754af9/idna_ssl_1611752490495/work
+ijson==3.2.3
+imagesize==1.3.0
+iniconfig==1.1.1
+interface-meta==1.2.4
+ipython==5.8.0
+Keras==2.2.4
+numba==0.53.1
+numexpr==2.8.1
+openpyxl==3.1.2
+optuna==2.10.1
+oset==0.1.3
+packaging==21.3
+packmol-memgen==1.2.1rc0
+pandas==1.1.5
+pandas-flavor==0.2.0
+ParmEd==3.4.1
+patsy==1.0.1
+pbr==5.10.0
+pdb4amber==20.1
+prompt-toolkit==1.0.15
+protobuf==3.17.2
+psutil==5.9.4
+ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+PubChemPy==1.0.4
+py==1.11.0
+py4j==0.10.9.7
+pyaml==21.10.1
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pybtex==0.24.0
+pybtex-docutils==1.0.1
+pyclustering==0.10.1.2
+pycodestyle==2.8.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==1.9.2
+pyflakes==2.4.0
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1650904496387/work
+pyMSMT==20.0
+pynisher==0.6.4
+pynndescent==0.5.13
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+pyperclip==1.8.2
+pyrfr==0.8.2
+pyrsistent==0.18.0
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305763431/work
+pytest==6.2.5
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-slugify==6.1.2
+pytraj==2.0.6
+pytz==2021.3
+PyYAML==6.0
+pyzmq==16.0.2
+rdflib==5.0.0
+recommonmark==0.4.0
+regex==2022.10.31
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+rfc3986==1.5.0
+rich==12.6.0
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+ruamel.yaml==0.18.3
+ruamel.yaml.clib==0.2.8
+s3transfer @ file:///tmp/build/80754af9/s3transfer_1626435152308/work
+sacremoses==0.0.53
+sander==16.0
+scanpy==1.7.2
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1614446678517/work
+scikit-learn-intelex==2021.5.3
+scikit-optimize==0.9.0
+scipy @ file:///tmp/build/80754af9/scipy_1597686625380/work
+seaborn==0.11.2
+simpleeval==0.9.13
+simplegeneric==0.8.1
+sinfo==0.3.4
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sklearn-genetic-opt==0.3.0
+SQLAlchemy==1.4.41
+statistics==1.0.3.5
+statsmodels==0.12.2
+stdlib-list==0.8.0
+stevedore==3.5.0
+subword-nmt==0.3.7
+swiglpk==5.0.10
+sympy==1.9
+tables==3.7.0
+tableschema==1.20.10
+tabulator==1.53.5
+tbb==2021.7.1
+tblib==1.7.0
+tenacity==8.0.1
+tensorboard==1.15.0
+tensorflow==1.14.0
+tensorflow-estimator==1.14.0
+tokenizers==0.12.1
+toml==0.10.2
+toolz==0.12.0
+torch==1.10.0
+torchvision==0.7.0+cpu
+tornado @ file:///tmp/build/80754af9/tornado_1606942266872/work
+tqdm==4.62.3
+traitlets==4.3.3
+transformers==4.18.0
+wget==3.2
+wrapt==1.12.1
+xarray==0.16.2
+xgboost==1.5.2
+xlrd==1.2.0
+yarl @ file:///tmp/build/80754af9/yarl_1598045023428/work
+zict==2.1.0
+zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work
