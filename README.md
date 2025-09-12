@@ -1,6 +1,6 @@
-# ComplexDnet
+# Deep-pert
 
-This is a framework implementation of ComplexDnet, as described in our paper:
+This is a framework implementation of Deep-pert, as described in our paper:
 
 ![demo](https://github.com/sirpan/Deep-pert/blob/main/Fig1.png)
 
