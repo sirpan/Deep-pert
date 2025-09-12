@@ -15,9 +15,9 @@ This is a framework implementation of ComplexDnet, as described in our paper:
 Effective treatment of complex diseases like cancer and MASH (Metabolic Dysfunction-Associated Steatotic Hepatitis) remains a challenge due to high attrition rates and disease heterogeneity. Although drug perturbation profiles offer rich functional data, current AI models are often unstable and lack the mechanistic interpretability needed for clinical translation. Here, we present Deep-pert, a deep ensemble learning framework that generates robust and mechanistically interpretable representations from high-dimensional pharmacogenomic data. Deep-pert significantly outperforms current methods in predicting drug sensitivity, synergy, and toxicity. Its interpretable features reveal disease-specific mechanisms and successfully predict validated combination therapies. We validate Deep-pert’s predictions in both cancer and MASH, identifying novel drug combinations with experimental support. Its versatility is further demonstrated through successful applications to drug-induced metabolomics, confirming its potential to guide precision medicine. Deep-pert provides a scalable platform for drug repurposing, biomarker discovery, and disease-specific pathway exploration, advancing therapeutic development in complex disease contexts.
 # Repo Contents
 - [Train](./Train): source code of Deep-pert for training in the paper.
-- [Interpretability and ensembles](./Interpretability and ensembles): source code of Deep-pert for interpretability and ensembles in the paper.
-- [Compute Target combination](./Compute Target combination): source code of Deep-pert for computing target combination in the paper.
-- [down task](./down task): source code of Deep-pert for down tasks in the paper.
+- [Interpretability and ensembles](./Interpretability%20and%20ensembles): source code of Deep-pert for interpretability and ensembles in the paper.
+- [Compute Target combination](./Compute%20Target%20combination): source code of Deep-pert for computing target combination in the paper.
+- [down task](./down%20task): source code of Deep-pert for down tasks in the paper.
 - [Results](./Results): data appled by deep-pert for all code.
 
 
